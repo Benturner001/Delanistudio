@@ -79,10 +79,10 @@ body {
     top: 30px;
     margin-bottom: 20px;
 } 
-/* .small-overlay {
+.small-overlay {
     background-color: rgba(0, 0, 0, 0.7);
     height: 280px;
-} */
+} 
 
 /* .contacts {
     background-image: url("../images/background/c_image.jpg");
